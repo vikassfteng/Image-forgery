@@ -1,2 +1,2 @@
 # Image-forgery
-image using deep learning
+image forgery using deep learning
