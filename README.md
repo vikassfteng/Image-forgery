@@ -1,2 +1,1 @@
-# Image-forgery
-image forgery using deep learning
+# Image-Forgery-Detection-Using-Deep-Learning
